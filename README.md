@@ -2,7 +2,7 @@
 
 A curated list of **free, browser-based tools** — utilities you can open in a tab without installing desktop software or creating an account. Focus on *local-first / client-side* tools that process data in your browser and never upload your files.
 
-> 🔒 = processes data **client-side** (in your browser). Treat the marker as a best-effort hint — always check a tool's privacy policy before feeding it sensitive data.
+> 🔒 = processes data **client-side** (in your browser). Best-effort hint — check the tool's policy before feeding it sensitive data.
 
 Contributions welcome — see [Contributing](#contributing).
 
@@ -126,11 +126,11 @@ Contributions welcome — see [Contributing](#contributing).
 
 ## Contributing
 
-- Add tools that are **free to use in a browser** (no mandatory install).
-- One line per tool: `- [Name](url) 🔒 — short description.` Use the 🔒 marker only if processing is client-side.
-- Keep entries in the relevant section, roughly alphabetical, and avoid duplicates.
-- No paid placements, no affiliate links, no spammy directories.
+- Free to use in a browser (no mandatory install).
+- One line per tool: `- [Name](url) 🔒 — short description.` Use 🔒 only when processing is client-side.
+- Relevant section, roughly alphabetical, no duplicates.
+- No paid placements, affiliate links or spammy directories.
 
 ## License
 
-Released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (public domain dedication). Tool names and trademarks belong to their respective owners.
+Released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). Tool names and trademarks belong to their respective owners.

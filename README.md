@@ -20,6 +20,19 @@ Contributions welcome — see [Contributing](#contributing).
 - [Pets](#pets)
 - [Teaching](#teaching)
 - [Cooking & Baking](#cooking--baking)
+- [Baby & Parenting](#baby--parenting)
+- [Home & DIY](#home--diy)
+- [Cars & Auto](#cars--auto)
+- [Personal Finance](#personal-finance)
+- [Games & Party](#games--party)
+- [Career & Jobs](#career--jobs)
+- [Wedding](#wedding)
+- [Travel](#travel)
+- [Planning & Productivity](#planning--productivity)
+- [Health & Fitness](#health--fitness)
+- [Legal & Documents](#legal--documents)
+- [Crafts & Hobbies](#crafts--hobbies)
+- [Language Learning](#language-learning)
 
 ## JSON & Data
 
@@ -88,6 +101,7 @@ Contributions welcome — see [Contributing](#contributing).
 - [base64decode](https://www.base64decode.org) 🔒 — Base64 encode/decode.
 - [Excalidraw](https://excalidraw.com) 🔒 — Hand-drawn style diagramming.
 - [draw.io](https://app.diagrams.net) 🔒 — Diagrams and flowcharts.
+- [Olutil Dev Tools](https://dev.olutil.com/) 🔒 — Free browser-based developer utilities: JSON formatter, JWT decoder, regex tester, diff, base64/URL, timestamp, UUID, hash, cron, YAML/XML/Markdown formatters, QR and more. Runs entirely client-side.
 
 ## Privacy & Security
 
@@ -123,6 +137,98 @@ Contributions welcome — see [Contributing](#contributing).
 - [Calculator.net Cooking](https://www.calculator.net/cooking-calculator.html) — Cooking and serving calculators.
 - [Epicurious](https://www.epicurious.com) — Recipes and kitchen references.
 - [Olutil Cook Tools](https://cook.olutil.com/) 🔒 — Free browser-based cooking calculators and converters: volume/weight, oven temperature, recipe scaling, nutrition estimates and more. Everything runs locally.
+
+## Baby & Parenting
+
+- [BabyCenter](https://www.babycenter.com) — Pregnancy and parenting reference.
+- [What to Expect](https://www.whattoexpect.com) — Pregnancy and baby guides.
+- [HealthyChildren.org](https://www.healthychildren.org) — AAP pediatric health guidance.
+- [Olutil Baby Tools](https://baby.olutil.com/) 🔒 — Free browser-based baby and parenting calculators: feeding, sleep, growth, milestones and more. Runs client-side; no sign-up.
+
+## Home & DIY
+
+- [Calculator.net Construction](https://www.calculator.net/construction-calculator.html) — Construction and material calculators.
+- [The Spruce](https://www.thespruce.com) — Home improvement how-tos.
+- [This Old House](https://www.thisoldhouse.com) — Renovation guides and calculators.
+- [Olutil Home Tools](https://home.olutil.com/) 🔒 — Free browser tools for home: rent/mortgage, area, renovation budget, utilities and more. All local; no uploads.
+- [Olutil DIY Tools](https://diy.olutil.com/) 🔒 — Free browser-based DIY calculators: paint, flooring, tile, wire, concrete and more. Runs entirely client-side.
+
+## Cars & Auto
+
+- [FuelEconomy.gov](https://www.fueleconomy.gov) — US government fuel economy data.
+- [Car and Driver](https://www.caranddriver.com) — Car reviews and specs.
+- [Calculator.net Auto Loan](https://www.calculator.net/auto-loan-calculator.html) — Auto loan payment calculator.
+- [Olutil Auto Tools](https://auto.olutil.com/) 🔒 — Free browser-based auto calculators: fuel economy, car loans, ownership cost, tire and maintenance. Local-only; no sign-up.
+
+## Personal Finance
+
+- [Calculator.net Financial](https://www.calculator.net/financial-calculator.html) — Loan, mortgage and investment calculators.
+- [Bankrate Calculators](https://www.bankrate.com/calculators/) — Personal finance calculators.
+- [NerdWallet](https://www.nerdwallet.com) — Finance tools and comparison.
+- [Olutil Finance Tools](https://finance.olutil.com/) 🔒 — Free browser-based finance calculators: mortgage, loans, compound interest, tax, retirement and more. Client-side, no sign-up.
+
+## Games & Party
+
+- [Board Game Arena](https://boardgamearena.com) — Play board games online.
+- [Random.org Dice](https://www.random.org/dice/) — Virtual dice roller.
+- [Online Stopwatch](https://www.online-stopwatch.com) — Timers and stopwatches.
+- [Olutil Game Tools](https://game.olutil.com/) 🔒 — Free browser generators for games and parties: bingo, mazes, spinners, dice, word and card games. Runs client-side.
+
+## Career & Jobs
+
+- [ResumeLab](https://resumelab.com) — Resume and cover letter builder.
+- [Zety](https://zety.com) — Resume builder and templates.
+- [Jobscan](https://www.jobscan.co) — Resume / ATS matching.
+- [Olutil Career Tools](https://career.olutil.com/) 🔒 — Free browser-based career tools: salary, resume keywords, cover letters, interview prep. Local-only; no uploads.
+
+## Wedding
+
+- [The Knot](https://www.theknot.com) — Wedding planning and vendors.
+- [Zola](https://www.zola.com) — Wedding registry and planning.
+- [WeddingWire](https://www.weddingwire.com) — Wedding vendor directory.
+- [Olutil Wedding Tools](https://wedding.olutil.com/) 🔒 — Free browser-based wedding calculators: budget, guest count, seating, invitations, honeymoon. Client-side, no sign-up.
+
+## Travel
+
+- [Rome2Rio](https://www.rome2rio.com) — Door-to-door travel planning.
+- [XE Currency](https://www.xe.com) — Currency converter and rates.
+- [The Man in Seat 61](https://www.seat61.com) — Train travel guide.
+- [Olutil Travel Tools](https://travel.olutil.com/) 🔒 — Free browser-based travel tools: packing lists, budgets, itineraries, jet lag and currency. Runs locally; no uploads.
+
+## Planning & Productivity
+
+- [Todoist](https://todoist.com) — Task manager.
+- [Trello](https://trello.com) — Kanban boards.
+- [Habitica](https://habitica.com) — Gamified habit tracker.
+- [Olutil Plan Tools](https://plan.olutil.com/) 🔒 — Free browser-based planners: habits, goals, budgets, weekly/monthly planning and more. Client-side, no sign-up.
+
+## Health & Fitness
+
+- [Calculator.net Fitness](https://www.calculator.net/fitness-and-health-calculator.html) — BMI, BMR and calorie calculators.
+- [CDC BMI Calculator](https://www.cdc.gov/bmi/) — US CDC BMI tool.
+- [MyFitnessPal](https://www.myfitnesspal.com) — Calorie and macro tracking.
+- [Olutil Health Tools](https://health.olutil.com/) 🔒 — Free browser-based health calculators: BMI, BMR, TDEE, body fat, macros, hydration, sleep and more. Local-only; not medical advice.
+
+## Legal & Documents
+
+- [LawDepot](https://www.lawdepot.com) — Legal document templates.
+- [Rocket Lawyer](https://www.rocketlawyer.com) — Legal documents and advice.
+- [TermsFeed](https://www.termsfeed.com) — Privacy policy and terms generators.
+- [Olutil Legal Tools](https://legal.olutil.com/) 🔒 — Free browser-based legal document generators (NDA, lease, privacy policy, terms and more). Client-side, no uploads; not legal advice.
+
+## Crafts & Hobbies
+
+- [Ravelry](https://www.ravelry.com) — Knitting and crochet community.
+- [LoveCrafts](https://www.lovecrafts.com) — Craft supplies and patterns.
+- [Instructables](https://www.instructables.com) — DIY project tutorials.
+- [Olutil Craft Tools](https://craft.olutil.com/) 🔒 — Free browser-based craft calculators: yarn, fabric, beads, resin, clay, pricing and more. Runs client-side.
+
+## Language Learning
+
+- [Duolingo](https://www.duolingo.com) — Language learning app.
+- [Anki](https://apps.ankiweb.net) — Spaced-repetition flashcards.
+- [Memrise](https://www.memrise.com) — Language vocabulary practice.
+- [Olutil Language Tools](https://lang.olutil.com/) 🔒 — Free browser-based language-study tools: flashcards, vocabulary tests, IPA, typing and spelling practice. Local-only; no sign-up.
 
 ## Contributing
 

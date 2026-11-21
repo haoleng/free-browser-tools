@@ -36,6 +36,7 @@ Contributions welcome — see [Contributing](#contributing).
 
 ## JSON & Data
 
+- [BestJSON](https://bestjson.com/) 🔒 — Format, validate, preview repairs and compare JSON structures locally in the browser.
 - [JSONLint](https://jsonlint.com) — Validate and reformat JSON.
 - [JSON Crack](https://jsoncrack.com) 🔒 — Visualize JSON/CSV as interactive graphs.
 - [jq Play](https://jqplay.org) 🔒 — Online playground for the `jq` JSON processor.
